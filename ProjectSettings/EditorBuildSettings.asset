@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5d0661d5bd98b409eb87b32a62858937
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 8637d4ed4b9e84a50a79a981e3ee1b82
+  - enabled: 1
+    path: Assets/Scenes/Attack.unity
+    guid: 00536999700a04e0290f1cb052786510
+  - enabled: 1
+    path: Assets/Scenes/EnemyA.I/Enemy A.I First Person.unity
+    guid: 74b86a94c5cdd4feab977ced770d3006
+  - enabled: 1
+    path: Assets/Scenes/Shooting.unity
+    guid: 62be2d2575eb24b648f9f630134de519
+  m_configObjects: {}
